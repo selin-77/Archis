@@ -1,0 +1,134 @@
+body{
+    text-align: center;
+    margin: 10px 266px 10px 266px;
+}
+h1{
+    width: 841px;
+    height: 58px;
+    top: 2342px;
+    left: 297px;
+    font-size: 48px;
+    margin-top: 150px;
+    margin-bottom: 60px;
+}
+.altBaşlık1{
+    font-size: 18px;
+    width: 868px;
+    height: 22px;
+    top: 2460px;
+    left: 283px;
+    font-weight: 400;
+    line-height: 21.6px;
+    margin-bottom: 8px;
+}
+.altBaşlık2{
+    font-size: 18px;
+    width: 312px;
+    height: 22px;
+    top: 2490px;
+    left: 561px;
+    font-weight: 700;
+    line-height: 21.6px;
+    margin: 8px 561px 100px 285px ;
+}
+.Fiyatlandırma-Planı{
+    display: flex;
+    align-items: center;
+    gap: 0px;
+    width: 908px;
+    height: 435px;
+    top: 2612px;
+    left: 266px;
+    margin-top: 100px;
+}
+.free-plan{
+    width: 300px;
+    height: 349px;
+    top: 2647px;
+    left: 266px;
+    border-radius: 10px;
+    border: 1px solid rgba(31, 100,255, 1);
+}
+.personal-plan{
+    width: 336px;
+    height: 435px;
+    top: 2612px;
+    left: 551px;
+    gap: 0px;
+    border-radius: 10px 10px 10px 10px;
+    opacity: 0px;
+    border: 1px solid rgba(31, 100,255, 1);
+    background: rgba(31, 100, 255, 1);
+    color: white;
+}
+.team-plan{
+    width: 300px;
+    height: 349px;
+    top: 2647px;
+    left: 874px;
+    border-radius: 10px;
+    border: 1px solid rgba(31, 100,255, 1);
+}
+ul{
+    width: 240px;
+    height: 140px;
+    top: 2762px;
+    left: 279px;
+    background: linear-gradient(360deg, #FFFFFF 12.32%, rgba(255, 255, 255, 0) 33.04%);
+
+}
+.btn{
+    width: 200px;
+    height: 52px;
+    top: 2916px;
+    left: 311px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    background-color:  rgba(31, 100, 255, 1);
+    color: white;
+    border: none;
+}
+.seçenek{
+    width: 250px;
+    border: 1px solid rgb(235, 233, 233);
+    background:  rgb(98,147,255,1);
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.btn1{
+    width: 96px;
+    height: 29px;
+    top: 2756px;
+    left: 623px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.8px;
+    text-align: left;
+    margin: 6px 21px 6px 22px;
+    background: rgba(255, 255, 255, 1);
+    color: rgb(71, 71, 191);
+    border: none;
+}
+.btn2{
+    width: 70px;
+    height: 30px;
+    top: 2762px;
+    left: 742px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.8px;
+    text-align: left;
+    color: rgb(71, 71, 191);
+    background: rgb(98,147,255,1);
+    border: none;
+}
